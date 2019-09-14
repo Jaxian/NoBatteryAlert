@@ -1,0 +1,2 @@
+# NoBatteryAlert
+NoBatteryAlert a little project to generate an application written on a simple JS, but on the  top of Electron Framework and wonderfully wanting to deploy a simple application that reads the status of your Laptop / Notebook and warns you when the Machine is running out of battery via e-mail, sms and smoke signals :)  The idea is to experiment on cross-platform applications, as a hybrid application and on the desktop and  only with JS.
